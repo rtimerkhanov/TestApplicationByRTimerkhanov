@@ -1,0 +1,6 @@
+c:\users\radik\documents\visual studio 2015\Projects\TestApplicationByRTimerkhanov\TestApplicationByRTimerkhanov\bin\Debug\TestApplicationByRTimerkhanov.exe.config
+c:\users\radik\documents\visual studio 2015\Projects\TestApplicationByRTimerkhanov\TestApplicationByRTimerkhanov\bin\Debug\TestApplicationByRTimerkhanov.exe
+c:\users\radik\documents\visual studio 2015\Projects\TestApplicationByRTimerkhanov\TestApplicationByRTimerkhanov\bin\Debug\TestApplicationByRTimerkhanov.pdb
+c:\users\radik\documents\visual studio 2015\Projects\TestApplicationByRTimerkhanov\TestApplicationByRTimerkhanov\obj\Debug\TestApplicationByRTimerkhanov.csprojResolveAssemblyReference.cache
+c:\users\radik\documents\visual studio 2015\Projects\TestApplicationByRTimerkhanov\TestApplicationByRTimerkhanov\obj\Debug\TestApplicationByRTimerkhanov.exe
+c:\users\radik\documents\visual studio 2015\Projects\TestApplicationByRTimerkhanov\TestApplicationByRTimerkhanov\obj\Debug\TestApplicationByRTimerkhanov.pdb
